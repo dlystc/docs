@@ -32,7 +32,7 @@ export default defineConfig({
         items: [
           { text: 'HTTP API', link: '/getting-started/http-api' },
           { text: '每日多言 CI 插件', link: '/getting-started/stc-plugin' },
-          { text: 'EI 名句一言', link: '/getting-started/extraisland-provider'}
+          { text: 'EI 名句一言', link: '/getting-started/extraisland-provider' }
         ]
       },
       {
