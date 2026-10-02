@@ -2,6 +2,14 @@
 
 是的很需要反馈 🥺
 
+## 在线表单
+
+~~纯白嫖的额度, 能用~~
+
+### Harvis
+
+<https://dlystc-feedback.harvis.page/>
+
 ## Github Issue
 
 ### 句子包
